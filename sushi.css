@@ -1,0 +1,185 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.gallery-places{
+
+    background-size: cover;
+    position: relative;
+    padding: 0px;
+}
+
+
+.jumbotron {
+  background-image: url("../img/jumbotron_bg.jpg");
+  background-size: cover;
+  min-height: 475px;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.innovation{
+    text-shadow: -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+
+  }
+
+.row{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.padding {
+    margin-top: 10px;
+    padding-top: 10px;
+
+}
+
+.padding {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+
+
+.card{
+   
+    object-fit: fill;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+h5{
+    font-weight: bold;
+    
+    
+}
+
+.head-foot{
+    display: flex; 
+    align-items: center;
+}
+
+
+
+.nav-item{
+    color: black;
+}
+
+.innovation {
+    color: white;
+}
+
+.container-about{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.padding {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.logo {
+
+    height: 140px;
+    width: auto;
+    position:absolute;
+    left:0;
+    top:32px;
+
+}
+
+
+
+.container-about{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-weight: bold;
+}
+
+.padding {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.icon-box-left i{
+
+width: 75px;
+display: inline-block;
+text-align: center;
+
+}
+
+.cats{
+ display: flex; 
+ text-align: center;  
+ margin-bottom: 10px;
+ height: 70px;
+ 
+
+}
+
+.review{
+    text-decoration: bold;
+    color: black;
+}
+
+.emily{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.icon-box-border{
+border: 1px solid #ffffff;
+padding: 16px 27px 7px 27px;
+
+
+
+}
+.inside{
+    width: 100%;
+}
+
+
+.color-me{
+    color: black;
+    
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+font-weight: bold;
+text-decoration-color: #D10000;
+}
+
+.container-top {
+
+float: right;
+
+ font-family: 'Montserrat', sans-serif;
+ padding-right: .5rem;
+ padding-left: .5rem;
+ font-size: .9rem;
+ margin-right: 1rem;
+ font-weight: 8px;
+
+}
